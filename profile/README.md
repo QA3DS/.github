@@ -13,7 +13,8 @@
 **Grupo de Investigación, Desarrollo e Innovación**
 
 [![UTN FRTDF](https://img.shields.io/badge/UTN-Facultad_Regional_Tierra_del_Fuego-0055A4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUg)](https://www.frtdf.utn.edu.ar/)
-[![Web](https://img.shields.io/badge/🌐_Sitio_Web-qa3ds--frtdf.tech-2ea44f?style=for-the-badge)](https://www.qa3ds-frtdf.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-QA3DS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/qu%C3%ADmica-aplicada-al-ambiente-los-alimentos-y-el-desarrollo-sostenible)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-QA3DS_Lab-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/lab/Quimica-aplicada-al-Ambiente-los-Alimentos-y-el-Desarrollo-Sostenible-Ariel-Lujan-Giamportone)
 
 ---
 
@@ -166,7 +167,8 @@ Estudiamos la **liofilización** (freeze-drying) como técnica innovadora de con
 
 | | |
 |---|---|
-| 🌐 **Web** | [www.qa3ds-frtdf.tech](https://www.qa3ds-frtdf.tech) |
+| 💼 **LinkedIn** | [QA3DS](https://www.linkedin.com/company/qu%C3%ADmica-aplicada-al-ambiente-los-alimentos-y-el-desarrollo-sostenible) |
+| 🔬 **ResearchGate** | [QA3DS Lab](https://www.researchgate.net/lab/Quimica-aplicada-al-Ambiente-los-Alimentos-y-el-Desarrollo-Sostenible-Ariel-Lujan-Giamportone) |
 | 🏛️ **Institución** | [UTN — Facultad Regional Tierra del Fuego](https://www.frtdf.utn.edu.ar/) |
 | 📍 **Ubicación** | Ushuaia y Río Grande, Tierra del Fuego, Argentina |
 | 🐙 **GitHub** | [@QA3DS](https://github.com/QA3DS) |
