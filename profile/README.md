@@ -113,7 +113,7 @@ Estudiamos la **liofilización** (freeze-drying) como técnica innovadora de con
 - ✅ **4 experimentos** completados con ruibarbo patagónico (*Rheum rhabarbarum* L.)
 - ✅ Tiempo óptimo de liofilización identificado: **36 horas**
 - ✅ Humedad original del ruibarbo fresco: **~94.4% BH** (base húmeda)
-- ✅ **2 artículos** de divulgación publicados en [Revista La Lupa](https://www.cadic-conicet.gob.ar/la-lupa/)
+- 🔄 **2 artículos** de divulgación redactados para [Revista La Lupa](https://www.cadic-conicet.gob.ar/la-lupa/) (pendientes de presentación)
 - ✅ Estudio completo de **escalado y factibilidad económica**
 - ✅ Convenio de colaboración con **Estancia Viamonte** (producción local)
 
@@ -142,8 +142,8 @@ Estudiamos la **liofilización** (freeze-drying) como técnica innovadora de con
 
 | Año | Publicación | Tipo |
 |---|---|---|
-| 2025 | *"Química Aplicada al Ambiente, los Alimentos y el Desarrollo Sostenible: Investigando la Liofilización en Tierra del Fuego"* — Revista La Lupa | Divulgación |
-| 2025 | *"Liofilización: Conservando el Futuro Alimentario de Tierra del Fuego"* — Revista La Lupa | Divulgación |
+| 2025 | *"Química Aplicada al Ambiente, los Alimentos y el Desarrollo Sostenible: Investigando la Liofilización en Tierra del Fuego"* — Revista La Lupa | Divulgación (redactado) |
+| 2025 | *"Liofilización: Conservando el Futuro Alimentario de Tierra del Fuego"* — Revista La Lupa | Divulgación (redactado) |
 | 2023 | Presentación en Jornadas de Ciencia y Tecnología UTN FRTDF | Conferencia |
 
 ---
