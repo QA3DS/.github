@@ -18,7 +18,7 @@
 
 ---
 
-*Ushuaia y Río Grande, Tierra del Fuego, Argentina 🇦🇷*
+*Ushuaia y Río Grande, Tierra del Fuego, Argentina 🇦🇷* · 🌐 [qa3ds.github.io](https://qa3ds.github.io/)
 
 </div>
 
@@ -74,8 +74,8 @@ Ser **referente regional** en I+D+I para la toma de decisiones en gestión de re
 <table>
 <tr>
 <td width="35%">
-<img src="assets/ruibarbo.jpg" alt="Ruibarbo patagónico" width="100%">
-<p align="center"><em>Ruibarbo patagónico — materia prima regional</em></p>
+<img src="assets/liofilizador-ruibarbo.jpg" alt="Liofilizador RIFICOR LT-8 con frascos de ruibarbo" width="100%">
+<p align="center"><em>Liofilizador RIFICOR LT-8 (UTN FRTDF) durante un ensayo con ruibarbo</em></p>
 </td>
 <td width="65%">
 
@@ -94,7 +94,7 @@ Ser **referente regional** en I+D+I para la toma de decisiones en gestión de re
 
 #### ¿Qué hacemos?
 
-Estudiamos la **liofilización** (freeze-drying) como técnica innovadora de conservación de alimentos, aplicándola a productos de la flora y fauna de Tierra del Fuego. La liofilización preserva hasta el **97% de los nutrientes** originales, eliminando el agua por sublimación sin degradar el producto.
+Estudiamos la **liofilización** (freeze-drying) como técnica innovadora de conservación de alimentos, aplicándola a productos de la flora y fauna de Tierra del Fuego. La liofilización elimina el agua del alimento congelado por sublimación, al vacío, obteniendo un producto liviano y estable.
 
 <div align="center">
 <img src="assets/liofilizacion.png" alt="Proceso de liofilización" width="500">
@@ -110,8 +110,8 @@ Estudiamos la **liofilización** (freeze-drying) como técnica innovadora de con
 
 #### Resultados destacados
 
-- ✅ **4 experimentos** completados con ruibarbo patagónico (*Rheum rhabarbarum* L.)
-- ✅ Tiempo óptimo de liofilización identificado: **36 horas**
+- ✅ Diseño experimental compilado con ruibarbo (*Rheum rhabarbarum* L.): 3 pretratamientos × 3 repeticiones × 3 meses — **261 observaciones válidas**
+- ✅ Los tres pretratamientos convergen a las **48 h**; rango práctico recomendado **36–48 h**
 - ✅ Humedad original del ruibarbo fresco: **~94.4% BH** (base húmeda)
 - 🔄 **2 artículos** de divulgación redactados para [Revista La Lupa](https://www.cadic-conicet.gob.ar/la-lupa/) (pendientes de presentación)
 - ✅ Estudio completo de **escalado y factibilidad económica**
@@ -171,6 +171,7 @@ Estudiamos la **liofilización** (freeze-drying) como técnica innovadora de con
 | 🔬 **ResearchGate** | [QA3DS Lab](https://www.researchgate.net/lab/Quimica-aplicada-al-Ambiente-los-Alimentos-y-el-Desarrollo-Sostenible-Ariel-Lujan-Giamportone) |
 | 🏛️ **Institución** | [UTN — Facultad Regional Tierra del Fuego](https://www.frtdf.utn.edu.ar/) |
 | 📍 **Ubicación** | Ushuaia y Río Grande, Tierra del Fuego, Argentina |
+| 🌐 **Sitio web** | [qa3ds.github.io](https://qa3ds.github.io/) |
 | 🐙 **GitHub** | [@QA3DS](https://github.com/QA3DS) |
 
 </div>
